@@ -1,4 +1,4 @@
-# URL Shortener
+# URL Shortener Project 
 
 [![Build Status](https://travis-ci.org/smtchahal/url-shortener.svg?branch=master)](https://travis-ci.org/smtchahal/url-shortener)
 [![Coverage Status](https://coveralls.io/repos/github/smtchahal/url-shortener/badge.svg?branch=master)](https://coveralls.io/github/smtchahal/url-shortener?branch=master)
